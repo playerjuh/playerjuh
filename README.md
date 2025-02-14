@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Giulia Ignácio!
 - 🌱 I’m currently learning Computer programming 
-- 💞️ I’m looking to collaborate on back-end
+- 💞️ I’m looking to collaborate on back-end or front-end
 - 📫 You can reach me on playerjuh@gmail.com
 
 <!---
