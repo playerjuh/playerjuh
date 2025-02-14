@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Giulia Ignácio!
-- 👀 I’m interested in ABAP and back-end
 - 🌱 I’m currently learning Computer programming 
 - 💞️ I’m looking to collaborate on back-end
 - 📫 You can reach me on playerjuh@gmail.com
